@@ -3,7 +3,8 @@
 
 ### 分布式系统的算法
 - consistent-hash 一致性hash
-- raft 最终一致性算法
+- raft 分布式一致性协调算法
+- gossip 最终一致性传播算法
 - backoff 退避算法
 - rate-limit [限流算法](https://github.com/titan-web/rate-limit)
 - circuit-breaker [熔断算法](https://github.com/titan-web/circuit-breaker)
